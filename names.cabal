@@ -1,4 +1,4 @@
-name:                Names
+name:                names
 version:             0.1.0.0
 synopsis:            Linguistics tool.
 -- description:         
@@ -12,7 +12,7 @@ build-type:          Simple
 extra-source-files:  README
 cabal-version:       >=1.10
 
-executable Names
+executable names
   main-is:             Main.hs
   -- other-modules:       
   other-extensions:    FlexibleInstances

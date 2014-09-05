@@ -58,8 +58,8 @@ dendrogramMode = Dendrogram {
   , svgOut = "dendrogram.svg" &= typFile
 } &= help "Render a dendrogram from a letter transition matrix."
 
-programName = "Names"
-programInfo = "Names v0.1.0"
+programName = "names"
+programInfo = "names v0.1.0"
 copyright = "(C) Josh Kirklin 2014"
 programAbout = "All file options but svg-out default to stdin/stdout"
 
