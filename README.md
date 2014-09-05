@@ -17,4 +17,4 @@ Generate a dendrogram from a directory of transition matrices
 
 Generate 20 random word from a word list
 
-    Names analyse -w words.txt | Name words -c 20
+    Names analyse -w words.txt | Names words -c 20
